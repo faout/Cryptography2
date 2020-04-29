@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cryptography</string>
+    <string name="ceaser">\Ceaser</string>
+    <string name="Cryptography">Cryptography</string>
+    <string name="Atbash">Atbash</string>
+    <string name="name" />
+    <string name="hint" />
+    <string name="atbash">Atbash</string>
+    <string name="ViginerCipher">ViginerCipher</string>
+    <string name="clear_text">Clear Text</string>
+</resources>
